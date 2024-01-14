@@ -13,7 +13,7 @@ Like past installments, this library has example files, files where you can lear
 
 ```bash
 # Cloning the repository where the source code of the library is located.
-git clone https://github.com/CodeWithRodi/Custos/
+git clone https://github.com/rodyherrera/Custos/
 # Entering the directory that generated the cloning of the repository, directory that contains the source code of the library, in the file 'Custos.hxx'
 cd Custos
 ```
